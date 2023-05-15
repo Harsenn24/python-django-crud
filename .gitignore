@@ -1,0 +1,23 @@
+# .gitignore
+
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Database files
+*.sqlite3
+
+# Log files
+*.log
+
+# Static files collected by Django
+/static/
+
+# Media files uploaded by users
+/media/
+
+# Virtual environment
+venv/
